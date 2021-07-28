@@ -1,2 +1,2 @@
 # simple-sieve
-simple c++ implementation of the sieve of eratosthenes
+c++ implementation of the sieve of eratosthenes
